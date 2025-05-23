@@ -1,0 +1,32 @@
+# Alien Front Online (USA)
+
+## Cheat Codes
+
+## Press L&R For Instant Win
+
+```
+A79D87710000FFFC
+CCFAE1EA00000063
+A79D87710000FFFC
+8CEC6CB500000063
+A79D87710000FFFC
+6A8DF07D00000063
+A79D87710000FFFC
+ECE87F5900000063
+
+```
+
+## [M] Must Be First
+
+```
+9C5D88F8
+
+```
+
+## [M] Must Be Last
+
+```
+245EECA9
+
+```
+

@@ -1,0 +1,60 @@
+# Vanishing Point (PAL)
+
+## Cheat Codes
+
+## Timer Stopped
+
+```
+335A2743 00703040
+33592743 00000000
+
+```
+
+## Start At Lap 2
+
+```
+2DF463AA C0703041
+2DF763AA 00000201
+
+```
+
+## Start At Lap 3
+
+```
+2DF463AA C0703041
+2DF763AA 00000102
+
+```
+
+## All Heats Completed
+
+```
+3470648D 
+E070D041 
+9721AE1E
+
+```
+
+## All Challenges
+
+```
+5336378D 
+606FB041 
+4070504D
+
+```
+
+## Everything Unlocked
+
+```
+7335D3C8 0000FFFF
+AAEB515B 0000FFFF
+44AA1F03 0000FFFF
+1C54165B 0000FFFF
+44921F03 0000FFFF
+EA9B585E 000000FF
+736DD3C8 0000FFFF
+CB03A732 00000003
+
+```
+

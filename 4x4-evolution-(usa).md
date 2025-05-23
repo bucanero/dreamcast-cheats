@@ -1,0 +1,22 @@
+# 4x4 Evolution (USA)
+
+## Cheat Codes
+
+## Low Lap Time
+
+```
+BD976840C06E50C1
+C8845C2D
+
+```
+
+## Inf. Cash
+
+```
+1A34D65BFFFFFFFF
+6F3BAB8BFFFFFFFF
+3E21F605FFFFFFFF
+1DC4E423FFFFFFFF
+
+```
+

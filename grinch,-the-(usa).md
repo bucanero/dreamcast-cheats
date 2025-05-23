@@ -1,0 +1,22 @@
+# Grinch, The (USA)
+
+## Cheat Codes
+
+## All Gifts Broken
+
+```
+F061880E00000BB8
+20377DCD000001F4
+567F69DF000002EE
+3E513ACF000002EE
+637375C9000003E8
+
+```
+
+## Max Rotten Eggs
+
+```
+C11BF970000000C8
+
+```
+
